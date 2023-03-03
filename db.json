@@ -1,0 +1,18 @@
+{
+    "product" : [
+        {
+            "id": 1,
+            "name": "iphone 14",
+            "model": "ip3047",
+            "photo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstore.storeimages.cdn-apple.com%2F4668%2Fas-images.apple.com%2Fis%2Fiphone-14-model-unselect-gallery-2-202209_GEO_EMEA_FMT_WHH%3Fwid%3D1280%26hei%3D492%26fmt%3Dp-jpg%26qlt%3D80%26.v%3D1660745126016&imgrefurl=https%3A%2F%2Fwww.apple.com%2Fin%2Fshop%2Fbuy-iphone%2Fiphone-14&tbnid=d7KbQ8-E_OPelM&vet=12ahUKEwiRlZ6Fsb39AhU0DLcAHYkfAfAQMygBegUIARD2Ag..i&docid=o6SNakdqnSP1hM&w=1280&h=492&q=iphone%2014&ved=2ahUKEwiRlZ6Fsb39AhU0DLcAHYkfAfAQMygBegUIARD2Ag",
+            "price" : "79999",
+            "color" : "blue",
+            "memory" : "128gb",
+            "battery" : "4000mah",
+            "camera" : "48mp"
+        }
+        
+        
+        
+    ]
+}
